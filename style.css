@@ -1,0 +1,13 @@
+p {
+    padding: 10px;
+    border: 1px solid black;
+    width: 50px;
+}
+
+p:hover {
+    background: #EA6942
+}
+div {
+    display: flex;
+    flex-direction: column;
+}
